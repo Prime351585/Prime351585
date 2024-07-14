@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prime351585
 - 👀 I’m interested in ... learning nature via computational programms
 - 🌱 I’m currently learning ... Python , C++ , Javascript , Java
+- ☘️ New tech stacks React,Node,Next,React-Native 
 - 💞️ I’m looking to collaborate on ... Anything related to programming and Physics........ : )
 - 📫 How to reach me ...harsh03092002@outlook.com
 

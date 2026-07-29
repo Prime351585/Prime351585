@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python , C++ , Javascript , Java
 - ☘️ New tech stacks React,Node,Next,React-Native 
 - 💞️ I’m looking to collaborate on ... Anything related to programming and Physics........ : )
-- 📫 How to reach me ...harsh03092002@outlook.com
+- 📫 How to reach me ...harsh03092002@outlook.com, mauryaharsh479@gmail.com
 
 <!---
 Prime351585/Prime351585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
